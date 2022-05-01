@@ -1,0 +1,24 @@
+# VScode
+android/
+build/
+ios/
+test/
+web/
+windows/
+.DS_Store
+.vscode
+.metadata
+.packages
+.idea
+.test.iml
+.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
+analysis_options.yaml
+
+# Credentials
+GoogleService-Info.plist 
+google-services.json 
+
+# Ignore
+assets/ignore/*
