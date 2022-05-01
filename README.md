@@ -1,6 +1,6 @@
 # Granter App
 
-My original app for the Coodesh coding challenge. Technologies used:
+My original app for the Coodesh coding challenge. Technologies and knowledge used:
 * Flutter,
 * UX/UI Design,
 * MVVM Architectural Pattern,
