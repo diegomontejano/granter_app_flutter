@@ -3,8 +3,8 @@
 My original app for the Coodesh coding challenge. Technologies and knowledge used:
 * Dart,
 * Flutter,
-* UX/UI Design,
 * Clean Code,
+* UX/UI Design,
 * Provider State Management,
 * MVVM Architectural Pattern,
 * API Rest/Restful Operations,
