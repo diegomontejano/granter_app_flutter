@@ -10,4 +10,4 @@ My original app for the Coodesh coding challenge. Technologies and knowledge use
 * API Rest/Restful Operations,
 * Firebase Cloud Firestore.
 
-Full App Presentation: https://youtu.be/WT3HMtRw1Yw
+App Video: https://youtu.be/WT3HMtRw1Yw
